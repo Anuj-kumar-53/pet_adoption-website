@@ -27,6 +27,7 @@ CSS – Styling and layout design
 JavaScript – Interactive features and form validation
 
 📸 Project Preview
+https://github.com/user-attachments/assets/1483d27a-95c5-4bcf-9f31-7e4f224fe7dd
 
 
 
